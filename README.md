@@ -1,1 +1,3 @@
-# smartserv-assignment-1
+#Assignment for SmartServ.
+Time Taken: 30 mins
+#Github URL :
